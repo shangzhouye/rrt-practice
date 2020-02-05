@@ -10,7 +10,7 @@
 
 ## Overview
 
-This is the repository for the RRT Challenge, MSR Hackathon, Sep. 2019. It includes the implementation of Rapidly-Exploring Random Tree (RRT), a fundamental path planning algorithm.
+This repository includes the implementation of Rapidly-Exploring Random Tree (RRT), a fundamental path planning algorithm.
 
 The pseudocode for the algorithm is as follows:
 
