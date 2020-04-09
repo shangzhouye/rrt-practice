@@ -1,9 +1,5 @@
 # Rapidly-Exploring Random Tree Practice
 
-*Shangzhou Ye, MSR, Northwestern Univerisity*
-
-**Skills: RRT, Python, navigational & motion planner, sampling methods**
-
 ## Demo:
 
 ![demo](https://github.com/shangzhouye/rrt-practice/blob/master/Figure_1.png?raw=true)
